@@ -68,7 +68,7 @@ cpy = [
 'It always seems impossible until it is done.',
 'When you can’t find the sunshine, be the sunshine!',
 'Happiness is not a station you arrive at, but a manner of traveling.',
-'It makes a big difference in your life when you stay positive.;,
+'It makes a big difference in your life when you stay positive.',
 'You are never too old to set another goal or dream a new dream.+',
 'It’s not whether you get knocked down, it’s whether you get up.',
 'It ain’t about how hard ya hit. It’s about how hard you can get hit and keep moving forward.',
