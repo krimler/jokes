@@ -4,7 +4,7 @@ cpy = [
 'Remember … Don’t copy that floppy!',
 'The early patch blocks the worm.',
 'Microsoft Word crashing is the new “dog ate my homework.”',
-'Said the movie cowboy to the stubborn macOS process: “I can’t force-quit you.”,
+'Said the movie cowboy to the stubborn macOS process: “I can’t force-quit you.”',
 'Spiciness is they key to happiness.',
 'Counting on the NSA to save your data is not a solid backup strategy.',
 'Be glad you didn’t get a FORTRAN cookie. It would have been way past it’s expiration date.',
