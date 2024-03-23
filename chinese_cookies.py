@@ -3,7 +3,7 @@ cpy = [
 'The pursuit of IT uptime can negatively affect enjoying personal downtime.',
 'Remember … Don’t copy that floppy!',
 'The early patch blocks the worm.',
-'Microsoft Word crashing is the new “dog ate my homework.”,
+'Microsoft Word crashing is the new “dog ate my homework.”',
 'Said the movie cowboy to the stubborn macOS process: “I can’t force-quit you.”,
 'Spiciness is they key to happiness.',
 'Counting on the NSA to save your data is not a solid backup strategy.',
