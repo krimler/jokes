@@ -57,8 +57,7 @@ jokes = ['Did you hear about the first restaurant to open on the moon?It had gre
 'Can a kangaroo jump higher than the Empire State Building? Of course! The Empire State Building can’t jump.',
 'What did the duck say when it bought some lipstick? “Put it on my bill.”',
 
-'George Clooney, Leonardo DiCaprio, and Matthew McConaughey get together to make a movie. Clooney says, “I’ll direct.”',
-DiCaprio says, “I’ll act.” McConaughey says, “I’ll write, I’ll write, I’ll write.”',
+'George Clooney, Leonardo DiCaprio, and Matthew McConaughey get together to make a movie. Clooney says, “I’ll direct.” DiCaprio says, “I’ll act.” McConaughey says, “I’ll write, I’ll write, I’ll write.”',
 'A horse walks into a bar. The bartender says, “Hey!” The horse replies, “Sure.”',
 'I googled “Rorshach test.” But for some reason, all that came up were pictures of my parents fighting.',
 'What do we want? Low-flying airplane noises! When do we want them? Nnnnneeeeeeeeeeoooooooooow!',
@@ -84,7 +83,7 @@ DiCaprio says, “I’ll act.” McConaughey says, “I’ll write, I’ll write
 'Working in a mirror factory is something I can totally see myself doing.',
 'Someone stole my Microsoft Office and they’re gonna pay. You have my Word.',
 'What do you call a dog with no legs? It doesn’t matter, it’s not going to come anyway.',
-'You know what they say about cliffhangers…
+'You know what they say about cliffhangers…',
 'Why does a chicken coop only have two doors? Because if it had four doors, it would be a chicken sedan.',
 'A sandwich walks into a bar. The bartender says, “Sorry, we don’t serve food here.”',
 'I got a new job last week as the new top dog at Old MacDonald’s farm. I’m the new C-I-E-I-O.',
