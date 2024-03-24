@@ -87,9 +87,7 @@ jokes = ['Did you hear about the first restaurant to open on the moon?It had gre
 'Why does a chicken coop only have two doors? Because if it had four doors, it would be a chicken sedan.',
 'A sandwich walks into a bar. The bartender says, “Sorry, we don’t serve food here.”',
 'I got a new job last week as the new top dog at Old MacDonald’s farm. I’m the new C-I-E-I-O.',
-'The sky was looking ominous so I asked Siri, “Surely, it’s not going to rain today?”\
-And she replied, “Yes it is, and don’t call me Shirley.”\
-That was when I realized I’d left my phone on Airplane mode.',
+'The sky was looking ominous so I asked Siri, “Surely, it’s not going to rain today?” And she replied, “Yes it is, and don’t call me Shirley.” That was when I realized I’d left my phone on Airplane mode.',
 'Why did the giraffe get such bad grades? He always had his head stuck in the clouds.',
 'Why are frogs always so happy? They eat whatever bugs them.',
 'Whenever you jump on a trampoline, did you know it changes the season? No matter what time of year, it always becomes spring time.',
