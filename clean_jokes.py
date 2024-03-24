@@ -4,7 +4,7 @@ jokes = ['Did you hear about the first restaurant to open on the moon?It had gre
 'What do dentists call their x-rays? Tooth pics!',
 'What did one ocean say to the other ocean? Nothing, it just waved.',
 'Do you want to hear a construction joke? Sorry, I’m still working on it.',
-'Clean joke that's funny for adults. Unsplash',
+'Clean joke thats funny for adults. Unsplash.',
 'Did you hear about the fire at the circus? It was in tents!',
 'Why do ducks have feathers? To cover their butt quacks!',
 'What’s the difference between a hippo and a zippo? One is really heavy and the other’s a little lighter.',
